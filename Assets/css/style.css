@@ -1,0 +1,31 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #212529;
+}
+
+
+.card-img-top {
+    width: 100%;
+    height: 220px;       
+    object-fit: cover;   
+    object-position: center;
+}
+
+
+.card-title, h2, .navbar-brand {
+    font-weight: 500; 
+}
+
+.card-text, p, input {
+    font-weight: 300; 
+}
+
+
+.bg-success {
+    background-color: #28a745 !important;
+}
+
+.text-success {
+    color: #28a745 !important;
+}
